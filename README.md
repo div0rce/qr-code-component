@@ -85,4 +85,4 @@ body {
 
 ## Author
 
-- LinkedIn - [Moustafa Nasr](https://www.twitter.com/mn801)
+- LinkedIn - [Moustafa Nasr](https://www.linkedin.com/in/mn801/)
